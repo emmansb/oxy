@@ -1,0 +1,4 @@
+2024-04-02T14:23:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\restly\inc\updater\classes\Restly_base.php on line 3
+
+2024-04-02T20:21:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php on line 25
+

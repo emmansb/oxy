@@ -1,0 +1,98 @@
+2024-03-26T01:32:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\modules\select.php on line 8
+
+2024-03-26T08:22:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6805
+
+2024-03-26T11:16:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\includes\class-providers.php on line 3
+
+2024-03-26T11:16:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\includes\admin\site-notes\Controller.php on line 24
+
+2024-03-26T11:18:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\lite\includes\popular-posts\class-popular-posts-inline.php on line 281
+
+2024-03-26T11:18:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\includes\admin\notifications\notification-events.php on line 3
+
+2024-03-26T11:18:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 429
+
+2024-03-26T11:59:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\wp-smush.php on line 340
+
+n line 25
+
+2024-03-26T11:59:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\wp-smush.php on line 340
+
+2024-03-26T11:59:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\core\class-rest.php on line 17
+
+2024-03-26T12:00:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\translation-install.php on line 266
+
+2024-03-26T12:00:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\Gutenberg\FormSelector.php on line 16
+
+2024-03-26T12:00:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:00:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\capabilities.php on line 642
+
+2024-03-26T12:00:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\translation-install.php on line 266
+
+2024-03-26T12:00:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\Divi\Divi.php on line 13
+
+2024-03-26T12:01:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\WPForms.php on line 174
+
+2024-03-26T12:01:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wpforms-lite\src\Integrations\UncannyAutomator\UncannyAutomator.php on line 12
+
+2024-03-26T12:02:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\block-patterns\query-small-posts.php on line 9
+
+2024-03-26T12:02:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 14
+
+2024-03-26T12:02:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-26T12:06:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-26T12:07:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\core\media-library\class-media-library-watcher.php on line 17
+
+2024-03-26T12:07:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-upgrader.php on line 13
+
+2024-03-26T12:08:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Blocks\BlockTypes\AbstractBlock.php on line 65
+
+2024-03-26T13:46:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 4593
+
+2024-03-26T13:46:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php on line 25
+
+2024-03-26T14:10:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 5335
+
+2024-03-26T14:10:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2024-03-26T14:10:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\includes\admin\admin-assets.php on line 408
+
+2024-03-26T14:10:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\DeprecatedClassFacade.php on line 20
+
+2024-03-26T14:10:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\Features.php on line 376
+
+2024-03-26T14:12:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 33
+
+2024-03-26T14:12:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_AsyncRequest_QueueRunner.php on line 40
+
+2024-03-26T14:12:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 429
+
+2024-03-26T14:48:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php on line 22
+
+2024-03-26T14:50:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2024-03-26T14:50:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\elements-color-picker\module.php on line 8
+
+2024-03-26T14:50:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-26T14:52:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\includes\admin\notifications\notification-install-user-feedback.php on line 60
+
+2024-03-26T14:52:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\Features.php on line 376
+
+2024-03-26T14:52:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\Features.php on line 376
+
+2024-03-26T14:52:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\core\external\wdev-logger\wdev-logger.php on line 33
+

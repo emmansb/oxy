@@ -1,0 +1,4 @@
+2024-04-10T12:34:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\contact-form-7\modules\hidden.php on line 3
+
+2024-04-10T12:36:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+

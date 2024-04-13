@@ -1,0 +1,14 @@
+2024-04-09T01:17:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-04-09T01:39:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\DataStores\Orders\CustomOrdersTableController.php on line 16
+
+2024-04-09T01:42:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\role-manager\role-manager.php on line 9
+
+2024-04-09T02:25:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\favorites\module.php on line 4
+
+2024-04-09T02:39:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\wp-smush.php on line 340
+
+2024-04-09T08:22:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\react-admin\connect-existing-pages.php on line 125
+
+2024-04-09T09:58:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Blocks\Payments\Integrations\PayPal.php on line 32
+

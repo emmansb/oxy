@@ -1,0 +1,18 @@
+2024-03-12T12:53:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Blocks\BlockTypes\ClassicTemplate.php on line 16
+
+2024-03-12T12:53:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\patterns\footer-large.php on line 9
+
+2024-03-12T12:53:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-12T12:53:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\image-loading-optimization\module.php on line 92
+
+2024-03-12T12:53:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\promotions\widgets\pro-widget-promotion.php on line 83
+
+2024-03-12T12:53:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2024-03-12T12:53:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\patterns\product-featured-2-columns.php on line 9
+
+2024-03-12T12:54:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-03-12T15:11:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\files\assets\manager.php on line 6
+

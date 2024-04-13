@@ -1,0 +1,8 @@
+2024-03-22T09:03:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 506
+
+2024-03-22T09:03:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Internal\Admin\WCPayPromotion\Init.php on line 8
+
+2024-03-22T09:03:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\wp-smush.php on line 340
+
+2024-03-22T09:05:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 2349
+

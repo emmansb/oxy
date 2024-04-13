@@ -1,0 +1,4 @@
+2024-03-18T08:37:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\RemoteInboxNotificationsEngine.php on line 8
+
+2024-03-18T10:15:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 19
+

@@ -1,0 +1,6 @@
+2024-04-11T12:22:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\all-in-one-seo-pack\vendor\composer\ClassLoader.php on line 429
+
+2024-04-11T12:58:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\google-analytics-for-wordpress\includes\admin\notifications\notification-install-optinmonster.php on line 45
+
+2024-04-11T13:23:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\wp-smushit\wp-smush.php on line 340
+
